@@ -1,2 +1,2 @@
-https://github.com/amresh087/Question/wiki
+[All Question](https://github.com/amresh087/Question/wiki)
 .
