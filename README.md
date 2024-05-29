@@ -1,2 +1,2 @@
-[All Question](https://github.com/amresh087/Question/wiki)
+[All Question prep](https://github.com/amresh087/Question/wiki)
 .
